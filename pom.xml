@@ -176,7 +176,7 @@
             <artifactId>shedlock-provider-redis-spring</artifactId>
             <version>2.5.0</version>
         </dependency>
-	</dependencies>
+    </dependencies>
 	<build>
 		<finalName>gymroutine</finalName>
 		<plugins>
